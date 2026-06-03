@@ -42,7 +42,10 @@ TokenizerFromScratch/main.js
 
 ## Lernziele
 
-* Ich wollte verstehen, wie Daten umgewandelt werden, nachdem ich mich mit Local Storage beschäftigt habe. Dabei    bin ich auf JSON.parse() gestoßen, das einen JSON-String in ein JavaScript-Objekt umwandelt. Aus Neugier wollte ich verstehen, wie dieser Prozess intern funktioniert. Das führte mich zu den Themen Tokenizing und Parsing und schließlich zu dem Ziel, einen einfachen eigenen Tokenizer und Parser zu entwickeln.
+* Ich wollte verstehen, wie Daten umgewandelt werden, nachdem ich mich mit Local Storage beschäftigt habe.
+* Dabei bin ich auf JSON.parse() gestoßen, das einen JSON-String in ein JavaScript-Objekt umwandelt.
+* Aus Neugier wollte ich verstehen, wie dieser Prozess intern funktioniert.
+* Das führte mich zu den Themen Tokenizing und Parsing und schließlich zu dem Ziel, einen einfachen eigenen Tokenizer und Parser zu entwickeln.
 
 
 ## Code ausführen
