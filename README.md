@@ -55,4 +55,4 @@ TokenizerFromScratch/main.js
 * Terminal öffnen und in den Projektordner wechseln
 * node main.js im Terminal ausführen
 
- * erwartete Ausgabe : { type: 'IDENTIFIER', value: 'alter' }
+* Erwartete Ausgabe : { type: 'IDENTIFIER', value: 'alter' }
